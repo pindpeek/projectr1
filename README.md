@@ -1,2 +1,3 @@
 # projectr1
 Watsonx ai studio model
+This reposetry contains two file one csv file (dataset) containg market price and basic info about house named housing and other is the .......
